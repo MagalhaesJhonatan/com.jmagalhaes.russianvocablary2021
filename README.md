@@ -1,1 +1,1 @@
-# com.jmagalhaes.russianvocablary2021
+# com.jmagalhaes.russianvocabulary2021
